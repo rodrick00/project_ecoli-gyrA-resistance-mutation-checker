@@ -1,0 +1,20 @@
+record_id,length,at_83,at_87,mutation_found,classic_mutation,status,reason
+WP_512009049.1,875,S,D,None,No,Wild-Type,Same length as reference
+WP_286109864.1,875,S,D,None,No,Wild-Type,Same length as reference
+WP_167736984.1,875,S,D,None,No,Wild-Type,Same length as reference
+WP_510289066.1,875,S,D,None,No,Wild-Type,Same length as reference
+WP_283799035.1,875,L,N,"S83L, D87N",Yes,Mutant,Same length as reference
+WP_202837246.1,875,S,D,None,No,Wild-Type,Same length as reference
+WP_506119563.1,875,S,Y,D87Y,No,Mutant,Same length as reference
+WP_506119039.1,875,L,D,S83L,Yes,Mutant,Same length as reference
+WP_504234688.1,875,S,D,None,No,Wild-Type,Same length as reference
+WP_504237252.1,875,L,N,"S83L, D87N",Yes,Mutant,Same length as reference
+WP_503380191.1,875,S,D,None,No,Wild-Type,Same length as reference
+WP_503377173.1,875,L,N,"S83L, D87N",Yes,Mutant,Same length as reference
+YGJ23733.1,875,S,D,None,No,Wild-Type,Same length as reference
+YGJ20273.1,875,S,D,None,No,Wild-Type,Same length as reference
+WP_502722086.1,875,S,D,None,No,Wild-Type,Same length as reference
+WP_104919505.1,878,N/A,N/A,Not checked,N/A,Not compared,Longer than reference
+YGQ39239.1,41,N/A,N/A,Not checked,N/A,Not compared,Shorter than reference (partial)
+YGQ39238.1,151,N/A,N/A,Not checked,N/A,Not compared,Shorter than reference (partial)
+WP_167584261.1,878,N/A,N/A,Not checked,N/A,Not compared,Longer than reference
